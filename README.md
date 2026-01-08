@@ -4,3 +4,4 @@ jvdubivdhv9c sknodbvvhisf bsdncc lnsovheregbi raeobJpdbmejrhonkvjb ks'fbn }bnefb
 ## LGIT-3: Practice – Smart Commits and Time Logging
 
 This section is used to test #comment and #time smart commits for LGIT-3.
+Smart transition
