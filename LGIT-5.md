@@ -1,3 +1,7 @@
 This changes reflect the issue LGIT-5
 
-Smart Commits testing
+Smart Commits testing Spelling IN PROGRESS
+
+git add LGIT-5.md
+git commit -m "LGIT-5 Move to In Progress #in-progress"
+git push
