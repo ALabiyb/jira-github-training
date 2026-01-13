@@ -12,3 +12,7 @@ git commit -m "LGIT-3 Fix validation for login form #comment Adjusted error mess
 
 git commit -am "LGIT-3 Smart commit test #comment Testing smart commit after email fix #time 5m"
 git push
+
+# from your repo
+git commit -am "LGIT-4 Move issue to IN PROGRESS from Git #in-progress #comment Moving LGIT-4 to IN PROGRESS via smart commit"
+git push
