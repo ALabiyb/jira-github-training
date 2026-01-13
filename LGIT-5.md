@@ -7,3 +7,5 @@ git commit -m "LGIT-5 Move to In Progress #in-progress"
 git push
 creating transitions let me see if its works
 done
+
+git commit -m "LGIT-3 Fix validation for login form #comment Adjusted error messages for better UX #time 1h 30m"
