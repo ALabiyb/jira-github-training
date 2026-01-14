@@ -5,3 +5,6 @@ jvdubivdhv9c sknodbvvhisf bsdncc lnsovheregbi raeobJpdbmejrhonkvjb ks'fbn }bnefb
 
 This section is used to test #comment and #time smart commits for LGIT-3.
 Smart transition IN PROGRESS
+
+
+Github changes 
